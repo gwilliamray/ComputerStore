@@ -12,6 +12,7 @@ namespace CompStore.Models
         public string  Description { get; set; }
         public decimal Cost { get; set; }
         public decimal ListPrice { get; set; }
+        public string PartImage { get; set; }
 
 
     }
